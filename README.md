@@ -7,7 +7,7 @@ A python script to spin up a VM and supporting resources in Microsoft Azure Clou
 
 Before following the below, you first need to make sure you have installed azure-cli and have logged in using the command ```az login``` from powershell.
 
-First create a file called ".env" in the project directory and add the following environment variable:
+Create a file called ".env" in the project directory and add the following environment variable:
 
 ```
 AZURE_SUBSCRIPTION_ID = "YOUR_AZURE_SUBSCRIPTION_ID"
